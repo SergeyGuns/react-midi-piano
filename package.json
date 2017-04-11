@@ -1,7 +1,7 @@
 {
   "name": "react-midi-piano",
   "version": "1.0.0",
-  "description": "",
+  "description": "midi piano Web API Audio",
   "scripts": {
     "start": "node server.js",
     "lint": "eslint src"
@@ -19,7 +19,9 @@
     "hmr",
     "live",
     "edit",
-    "webpack"
+    "webpack",
+    "audio",
+    "webapiaudio"
   ],
   "author": "",
   "license": "MIT",
