@@ -1,5 +1,5 @@
 ### keyboard midi piano 
-keys: 
+Keys: Notes
 z:G x:A c:B v:C b:D n:E m:F s:G# d:A# g:C# h:D#
 ### Doc
 ```bash

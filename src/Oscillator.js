@@ -107,6 +107,7 @@ export default class Oscillator extends React.Component {
         </input>
 
         <p>
+          "Keys": "Notes"<br/>
           z:G x:A c:B v:C b:D n:E m:F s:G# d:A# g:C# h:D#
         </p>
 
